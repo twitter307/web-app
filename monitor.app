@@ -1,3 +1,5 @@
 grafana
 newrelic
 prometheus
+appsdynamics
+apptrace
