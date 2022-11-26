@@ -2,4 +2,5 @@ grafana
 newrelic
 prometheus
 appsdynamics
-apptrace
+apptrac
+#bug removed
