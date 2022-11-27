@@ -3,6 +3,6 @@ newrelic
 prometheus
 appsdynamics
 apptrac
-#bug removed
+bug removed
 servicenow
 nagios
